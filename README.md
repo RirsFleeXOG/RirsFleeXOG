@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RirsFleeXOG
-- 👀 I’m interested in ...  la programacion
-- 🌱 I’m currently learning ... a codificar
+- 👀 I’m interested in ...  the coding
+- 🌱 I’m currently learning ... to encode
 - 💞️ I’m looking to collaborate on ... VPNS
 - 📫 How to reach me ... instagram @pathv1
 
